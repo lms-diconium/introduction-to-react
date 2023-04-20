@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/introduction-to-react/static/css/main.073c9b0a.css",
+    "main.js": "/introduction-to-react/static/js/main.5ab0e04c.js",
+    "static/js/787.43e199c3.chunk.js": "/introduction-to-react/static/js/787.43e199c3.chunk.js",
+    "static/media/logo.svg": "/introduction-to-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/introduction-to-react/index.html",
+    "main.073c9b0a.css.map": "/introduction-to-react/static/css/main.073c9b0a.css.map",
+    "main.5ab0e04c.js.map": "/introduction-to-react/static/js/main.5ab0e04c.js.map",
+    "787.43e199c3.chunk.js.map": "/introduction-to-react/static/js/787.43e199c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5ab0e04c.js"
+  ]
+}
